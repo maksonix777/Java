@@ -48,11 +48,11 @@ public class Test {
   }
     static void Test(){
         int number = 345;
-        int digit1 = number / 100;  // Извлекаем первую цифру
-        int digit2 = (number / 10) % 10;  // Извлекаем вторую цифру 345 : 10
-        int digit3 = number % 10;  // Извлекаем третью цифру
+        int digit1 = number / 100;  
+        int digit2 = (number / 10) % 10;  
+        int digit3 = number % 10;  
 
-        System.out.println("Число " + number + " -> " + digit1 + ", " + digit2 + ", " + digit3);
+        System.out.println("number " + number + " -> " + digit1 + ", " + digit2 + ", " + digit3);
     }
 
   }
