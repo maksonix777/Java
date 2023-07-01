@@ -10,7 +10,7 @@ public class Practical {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number one:");
         num1 = scanner.nextFloat();
-        System.out.println("Enter a number one:");
+        System.out.println("Enter a number two:");
         num2 = scanner.nextFloat();
         System.out.println(addition(num1, num2));
 
