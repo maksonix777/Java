@@ -12,7 +12,7 @@ public class Practical {
         num1 = scanner.nextFloat();
         System.out.println("Enter a number two:");
         num2 = scanner.nextFloat();
-        System.out.println(addition(num1, num2));
+         System.out.println("The sum of number1 and number2 is:"+ addition(num1, num2));
 
     }
     static float addition (float num1, float num2) {
