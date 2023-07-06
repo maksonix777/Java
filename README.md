@@ -11,3 +11,6 @@ https://maksonix777.github.io/Java/HomeWorkTask3.java
 https://maksonix777.github.io/Java/HomeWorkTask3.java
 //строка подстроку “Java” 
 https://maksonix777.github.io/Java/HomeWorkTask1.java
+
+
+https://docs.google.com/document/d/1DgDtKkkuW-kWDkiVJcJK7sIH9s3q2GsYkDt1ZcnIeCA/edit?usp=sharing
