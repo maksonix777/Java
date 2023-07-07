@@ -14,3 +14,6 @@ https://maksonix777.github.io/Java/HomeWorkTask1.java
 
 
 https://docs.google.com/document/d/1DgDtKkkuW-kWDkiVJcJK7sIH9s3q2GsYkDt1ZcnIeCA/edit?usp=sharing
+
+
+https://maksonix777.github.io/Java/HomeWork4.java
