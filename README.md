@@ -20,3 +20,6 @@ https://maksonix777.github.io/Java/HomeWork4.java
 
 
 https://maksonix777.github.io/Java/WorkingDay.java
+
+
+https://maksonix777.github.io/Java/Task5.java
